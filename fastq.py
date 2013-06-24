@@ -1,3 +1,6 @@
+__version__ = '0.1'
+
+
 class Fastq(object):
 
     def __init__(self, header, sequence, quality):
